@@ -1,17 +1,23 @@
-## implemented dbt project from scratch tach using airbnb data soruces.
+## implemented dbt project from scratch tach using Airbnb data sources.
 
-in this project, i used some great features of dbt:
+in this project, I used some great features of dbt:
 
-- different types of materilization ( view, table, incremental, CTE)
-- snapshots
-- tests
+- different types of materialization ( view, table, incremental, CTE)
+- Snapshots
+- Macros, Jinjas
+- Tests
     - singular
     - generic
     - custom: dbt-expectations
-- documentation:
+- Documentation:
     - yml 
     - markdown
 - Asset
 - Analyses
-- Hook
-- Warning/Alerting
+- Hooks
+    - on_run_start
+    - on_run_end
+    - pre-hook
+    - post-hook
+- Exposures
+- Warnings/Alerting
