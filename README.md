@@ -2,7 +2,7 @@
 
 in this project, I used some great features of dbt:
 
-- different types of materialization ( view, table, incremental, CTE)
+- different types of materialization ( view, table, incremental, CTE(ephemeral))
 - Snapshots
 - Macros, Jinjas
 - Tests
