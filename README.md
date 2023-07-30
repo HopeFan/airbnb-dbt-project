@@ -1,6 +1,6 @@
 ## implemented dbt project from scratch tach using airbnb data soruces.
 
-## in this project i used some great features of dbt:
+in this project, i used some great features of dbt:
 
 - different types of materilization ( view, table, incremental, CTE)
 - snapshots
