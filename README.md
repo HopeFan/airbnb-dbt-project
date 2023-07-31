@@ -21,3 +21,10 @@ in this project, I used some great features of dbt:
     - post-hook
 - Exposures
 - Warnings/Alerting
+
+
+Platform: Snowflake
+ETL: dbt
+Data Modelling: Dimensional 
+Visualisation: Preset
+
